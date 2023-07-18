@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walkerzito" alt="walkerzito" /></a> </p>
 
-- 🌱 I’m currently learning **C, HTML, CSS, JS.**
+- 🌱 I’m currently learning **Java, Dart, Flutter.**
 
 - 📫 How to reach me **yugiohmades@gmail.com**
 
