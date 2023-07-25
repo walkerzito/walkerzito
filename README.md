@@ -1,8 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerzito&layout=compact&theme=chartreuse-dark&hide=html,css&langs_count=3)
-
-
 <h1 align="center">Hi 👋, I'm Lucas Walker</h1>
 <h3 align="center">I'm a IT student of UFERSA trying to learn solve some problems with programming.</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerzito&layout=compact&theme=chartreuse-dark&hide=html,css&langs_count=3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walkerzito&label=Profile%20views&color=0e75b6&style=flat" alt="walkerzito" /> </p>
 
